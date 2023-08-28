@@ -2,15 +2,13 @@
 
 **🚀currently working on:**
 * [SearchNEU](https://github.com/sandboxnu/searchneu)
-* *top secret personal projects 🤐🕵️‍♀️*
+* top secret personal projects 🤐🕵️‍♀️
 
-&nbsp;
 
 **🎸currently listening to:**
 
 <a href="https://www.last.fm/user/LucasDunker"><img src="https://lastfm-recently-played.vercel.app/api?user=LucasDunker" height="auto" width="300px"/></a>
 
-&nbsp;
 
 **📬available on:**
 * Email: <a href="mailto:dunker.l@northeastern.edu">dunker.l@northeastern.edu</a>
