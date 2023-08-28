@@ -1,4 +1,22 @@
-### Hi there 👋
+## hey! I'm Lucas, and I'm...
+
+**🚀currently working on:**
+* [SearchNEU](https://github.com/sandboxnu/searchneu)
+* *top secret personal projects 🤐🕵️‍♀️*
+
+&nbsp;
+&nbsp;
+
+**🎸currently listening to:**
+
+<a href="https://www.last.fm/user/LucasDunker"><img src="https://lastfm-recently-played.vercel.app/api?user=LucasDunker" height="auto" width="300px"/></a>
+
+&nbsp;
+&nbsp;
+
+**📬available on:**
+* Email: <a href="mailto:dunker.l@northeastern.edu">dunker.l@northeastern.edu</a>
+* [LinkedIn](https://www.linkedin.com/in/lucasdunker/)
 
 <!--
 **Lucas-Dunker/Lucas-Dunker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
