@@ -5,13 +5,11 @@
 * *top secret personal projects 🤐🕵️‍♀️*
 
 &nbsp;
-&nbsp;
 
 **🎸currently listening to:**
 
 <a href="https://www.last.fm/user/LucasDunker"><img src="https://lastfm-recently-played.vercel.app/api?user=LucasDunker" height="auto" width="300px"/></a>
 
-&nbsp;
 &nbsp;
 
 **📬available on:**
