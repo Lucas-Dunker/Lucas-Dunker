@@ -7,7 +7,7 @@
 
 **🎸currently listening to:**
 
-<a href="https://www.last.fm/user/LucasDunker"><img src="https://lastfm-recently-played.vercel.app/api?user=LucasDunker&count=3" height="auto" width="300px"/></a>
+<a href="https://www.last.fm/user/LucasDunker"><img src="https://lastfm-recently-played.vercel.app/api?user=LucasDunker&count=3" height="auto" width="auto"/></a>
 
 
 **📬available on:**
