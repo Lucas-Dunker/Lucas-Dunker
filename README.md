@@ -3,7 +3,6 @@
 **🚀currently working on:**
 * penetration testing software at Capital One 💸
 * top secret personal projects 🤐🕵️‍♀️
-* my personal website!
 
 **👴previously worked on:**
 * [SearchNEU](https://github.com/sandboxnu/searchneu)
