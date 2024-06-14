@@ -1,9 +1,14 @@
 ## hey! 🧙‍♂️ I'm Lucas, and I'm...
 
 **🚀currently working on:**
-* [SearchNEU](https://github.com/sandboxnu/searchneu)
+* penetration testing software at Capital One 💸
 * top secret personal projects 🤐🕵️‍♀️
+* my personal website!
 
+**👴previously worked on:**
+* [SearchNEU](https://github.com/sandboxnu/searchneu)
+* front-end checkout flows at CarGurus 🚗
+* website optimization at Harvard Medical School 🎓
 
 **🎸currently listening to:**
 
