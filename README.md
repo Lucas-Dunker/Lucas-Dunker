@@ -7,7 +7,7 @@
 
 **👴previously worked on:**
 * [SearchNEU](https://github.com/sandboxnu/searchneu)
-* front-end checkout flows at CarGurus 🚗
+* front-end user-flows and components at CarGurus 🚗 and Latent Studio 🤖
 * website optimization at Harvard Medical School 🎓
 
 **🎸currently listening to:**
