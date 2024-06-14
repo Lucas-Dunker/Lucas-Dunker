@@ -1,8 +1,13 @@
 ## hey! 🧙‍♂️ I'm Lucas, and I'm...
 
 **🚀currently working on:**
-* penetration testing software at Capital One 💸
+* penetration testing software @ Capital One 💸
 * top secret personal projects 🤐🕵️‍♀️
+
+**⬅ remembering my time with..**
+* project developmet and leadership @ [SearchNEU](https://github.com/sandboxnu/searchneu)
+* front-end user-flows and components @ CarGurus 🚗 and Latent Studio 🤖
+* website optimization @ Harvard Medical School 🎓
 
 **🎸currently listening to:**
 
@@ -12,13 +17,6 @@
 **📬available on:**
 * Email: <a href="mailto:dunker.l@northeastern.edu">dunker.l@northeastern.edu</a>
 * [LinkedIn](https://www.linkedin.com/in/lucasdunker/)
-
-
-
-  ## ⬅ I've previously worked on...
-* [SearchNEU](https://github.com/sandboxnu/searchneu)
-* front-end user-flows and components at CarGurus 🚗 and Latent Studio 🤖
-* website optimization at Harvard Medical School 🎓
 
 <!--
 **Lucas-Dunker/Lucas-Dunker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
