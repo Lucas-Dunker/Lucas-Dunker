@@ -1,10 +1,10 @@
-## hey! 🧙‍♂️ I'm Lucas, and I'm...
+## hey! 👋 I'm Lucas, and I'm...
 
 **🚀currently working on:**
 * penetration testing software @ Capital One 💸
 * top secret personal projects 🤐🕵️‍♀️
 
-**⬅ remembering my time with..**
+**🧙‍♂️ remembering my time with..**
 * project development @ [SearchNEU](https://github.com/sandboxnu/searchneu)
 * front-end user-flows @ CarGurus 🚗 and Latent Studio 🤖
 * website optimization @ Harvard Medical School 🎓
