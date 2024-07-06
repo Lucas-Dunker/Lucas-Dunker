@@ -5,8 +5,8 @@
 * top secret personal projects 🤐🕵️‍♀️
 
 **⬅ remembering my time with..**
-* project developmet and leadership @ [SearchNEU](https://github.com/sandboxnu/searchneu)
-* front-end user-flows and components @ CarGurus 🚗 and Latent Studio 🤖
+* project development @ [SearchNEU](https://github.com/sandboxnu/searchneu)
+* front-end user-flows @ CarGurus 🚗 and Latent Studio 🤖
 * website optimization @ Harvard Medical School 🎓
 
 **🎸currently listening to:**
