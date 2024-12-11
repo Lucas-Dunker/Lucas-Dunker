@@ -1,6 +1,6 @@
 ## hey! 👋 I'm Lucas, and I'm...
 
-**🚀currently working on:**
+**🚀 currently working on:**
 * top secret personal projects 🤐🕵️‍♀️
 
 **🧙‍♂️ remembering my time with..**
@@ -14,7 +14,7 @@
 <a href="https://www.last.fm/user/LucasDunker"><img src="https://lastfm-recently-played.vercel.app/api?user=LucasDunker&count=3" height="auto" width="auto"/></a>
 
 
-**📬available on:**
+**📬 available on:**
 * Email: <a href="mailto:dunker.l@northeastern.edu">dunker.l@northeastern.edu</a>
 * [LinkedIn](https://www.linkedin.com/in/lucasdunker/)
 
