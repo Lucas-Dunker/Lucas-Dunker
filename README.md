@@ -1,6 +1,7 @@
 ## hey! 👋 I'm Lucas, and I'm...
 
 **🚀 currently working on:**
+* financial core infra @ Capital One 💸
 * top secret personal projects 🤐🕵️‍♀️
 
 **🧙‍♂️ remembering my time with..**
