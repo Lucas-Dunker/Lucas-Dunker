@@ -16,7 +16,7 @@
 
 
 **📬 available on:**
-* Email: <a href="mailto:dunker.l@northeastern.edu">dunker.l@northeastern.edu</a>
+* <a href="mailto:dunker.l@northeastern.edu">dunker.l@northeastern.edu</a>
 * [LinkedIn](https://www.linkedin.com/in/lucasdunker/)
 
 <!--
