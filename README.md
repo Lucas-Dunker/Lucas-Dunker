@@ -1,7 +1,7 @@
 ## hey! 👋 I'm Lucas, and I'm...
 
 **🚀 currently working on:**
-* consumer platform @ SpaceX 📡🛰️
+* platform security @ SpaceX 📡🛰️
 * top secret personal projects 🤐🕵️‍♀️
 
 **🧙‍♂️ reminiscing about..**
